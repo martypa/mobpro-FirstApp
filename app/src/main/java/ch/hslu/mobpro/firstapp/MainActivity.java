@@ -10,7 +10,7 @@ import android.widget.TextView;
 /**
  * The main activity, displays some buttons.
  *
- * @author Ruedi Arnold
+ * @author Patrick Marty
  */
 
 

@@ -12,7 +12,7 @@ import android.widget.TextView;
 /**
  * Asks the user a question and returns the answer to the caller.
  *
- * @author Ruedi Arnold
+ * @author Patrick Marty
  */
 public class QuestionActivity extends Activity {
 
